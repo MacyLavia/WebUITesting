@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 16 08:50:32 CST 2023","Fri Jun 16 08:50:33 CST 2023","699","testcases","test_login","TestIndex_login","","","test_login",""
+"passed","Fri Jun 16 08:50:28 CST 2023","Fri Jun 16 08:50:32 CST 2023","3893","testcases","test_checklist","TestIndex_checklist","","","test_checklist",""
+"passed","Fri Jun 16 08:50:57 CST 2023","Fri Jun 16 08:51:04 CST 2023","7010","testcases","test_send","TestIndex_send","","","test_send_weibo",""
+"passed","Fri Jun 16 08:50:33 CST 2023","Fri Jun 16 08:50:51 CST 2023","18642","testcases","test_newgroup","TestIndex_newgroup","","","test_newgroup",""
+"passed","Fri Jun 16 08:50:51 CST 2023","Fri Jun 16 08:50:57 CST 2023","6220","testcases","test_search","TestIndex_search","","","test_search_weibo",""

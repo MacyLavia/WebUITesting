@@ -1,0 +1,7 @@
+INFO     root:base_page.py:24 设置浏览器最大化
+INFO     root:base_page.py:34 打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[1]/div/textarea')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[3]/span/div/div[1]')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[3]/div/div/div[4]')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[4]/button')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="scroller"]/div[1]/div[1]/div/article/div[1]/div/div[1]/span')，超时时间：10

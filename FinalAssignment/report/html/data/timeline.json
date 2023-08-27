@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-NIANF1F",
+    "children" : [ {
+      "name" : "9932-MainThread",
+      "children" : [ {
+        "name" : "test_newgroup",
+        "uid" : "e5ccbabb0b62c070",
+        "parentUid" : "f8118c1e10028c9fc5513919668c2fb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686876633105,
+          "stop" : 1686876651747,
+          "duration" : 18642
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_send_weibo",
+        "uid" : "4f0740c8e85edaba",
+        "parentUid" : "f8118c1e10028c9fc5513919668c2fb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686876657975,
+          "stop" : 1686876664985,
+          "duration" : 7010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_weibo",
+        "uid" : "1fbaca82b7593f67",
+        "parentUid" : "f8118c1e10028c9fc5513919668c2fb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686876651751,
+          "stop" : 1686876657971,
+          "duration" : 6220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login",
+        "uid" : "bb73e009cb121ea4",
+        "parentUid" : "f8118c1e10028c9fc5513919668c2fb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686876632372,
+          "stop" : 1686876633071,
+          "duration" : 699
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_checklist",
+        "uid" : "f9ee6c86c1d0f6dd",
+        "parentUid" : "f8118c1e10028c9fc5513919668c2fb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686876628432,
+          "stop" : 1686876632325,
+          "duration" : 3893
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f8118c1e10028c9fc5513919668c2fb5"
+    } ],
+    "uid" : "e3038aab341fa65907c11c7a13f7683c"
+  } ]
+}

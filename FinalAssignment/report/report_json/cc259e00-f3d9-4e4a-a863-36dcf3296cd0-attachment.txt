@@ -1,0 +1,3 @@
+INFO     root:base_page.py:24 设置浏览器最大化
+INFO     root:base_page.py:34 打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[5]/div')，超时时间：10

@@ -1,0 +1,4 @@
+INFO     root:base_page.py:24 设置浏览器最大化
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="searchapps"]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10

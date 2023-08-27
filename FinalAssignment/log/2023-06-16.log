@@ -1,0 +1,128 @@
+2023-06-16 07:36:22,648|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 07:36:23,401|INFO|logger.py|11|Get LATEST chromedriver version for google-chrome
+2023-06-16 07:36:23,588|INFO|logger.py|11|About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-06-16 07:36:24,271|INFO|logger.py|11|Driver has been saved in cache [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90]
+2023-06-16 07:36:25,452|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 07:36:25,581|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 07:36:25,914|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 07:38:04,476|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 07:38:05,114|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 07:38:06,247|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 07:38:06,374|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 07:38:06,708|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 07:39:42,067|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 07:39:42,690|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 07:39:43,849|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 07:39:43,977|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 07:39:44,336|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:07:17,176|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:07:17,798|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:07:18,962|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:07:19,089|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:07:19,371|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:19:45,084|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:19:45,737|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:19:46,977|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:19:47,101|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:19:47,420|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:23:40,181|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:23:40,820|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:23:41,981|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:23:42,109|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:23:42,421|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:26:33,162|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:26:33,803|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:26:34,960|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:26:35,088|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:26:35,379|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:43:27,263|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:43:27,907|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:43:29,061|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:43:29,191|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:43:29,535|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:43:38,757|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:43:38,761|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:43:39,515|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div/div[1]/div/div/div[3]/a/div/div')，超时时间：10
+2023-06-16 08:43:42,797|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[4]/div/span')，超时时间：10
+2023-06-16 08:43:42,831|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:43:42,836|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:43:43,381|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[5]/div')，超时时间：10
+2023-06-16 08:43:43,583|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:43:43,589|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/button')，超时时间：10
+2023-06-16 08:43:43,660|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[1]')，超时时间：10
+2023-06-16 08:43:43,686|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/div[4]/button')，超时时间：10
+2023-06-16 08:43:46,829|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/input')，超时时间：10
+2023-06-16 08:43:49,925|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[3]/button[2]')，超时时间：10
+2023-06-16 08:43:52,995|INFO|base_page.py|44|查找元素：('xpath', '//div[text()=" 测测 "]/following-sibling::i')，超时时间：10
+2023-06-16 08:43:56,066|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[5]/div[1]/div/div[2]/button[2]')，超时时间：10
+2023-06-16 08:43:59,137|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[2]/i')，超时时间：10
+2023-06-16 08:44:02,198|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:44:02,204|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:44:05,298|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:44:08,382|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="searchapps"]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:47:51,511|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:47:52,141|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:47:53,296|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:47:53,425|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:47:53,761|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:48:03,303|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:48:03,309|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:48:03,834|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div/div[1]/div/div/div[3]/a/div/div')，超时时间：10
+2023-06-16 08:48:07,118|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[4]/div/span')，超时时间：10
+2023-06-16 08:48:07,148|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:48:07,152|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:48:07,713|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[5]/div')，超时时间：10
+2023-06-16 08:48:07,902|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:48:07,906|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/button')，超时时间：10
+2023-06-16 08:48:07,988|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[1]')，超时时间：10
+2023-06-16 08:48:08,013|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/div[4]/button')，超时时间：10
+2023-06-16 08:48:11,156|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/input')，超时时间：10
+2023-06-16 08:48:14,253|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[3]/button[2]')，超时时间：10
+2023-06-16 08:48:17,314|INFO|base_page.py|44|查找元素：('xpath', '//div[text()=" 测测 "]/following-sibling::i')，超时时间：10
+2023-06-16 08:48:20,378|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[5]/div[1]/div/div[2]/button[2]')，超时时间：10
+2023-06-16 08:48:23,450|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[2]/i')，超时时间：10
+2023-06-16 08:48:26,513|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:48:26,517|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:48:29,620|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:48:32,704|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="searchapps"]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:48:32,729|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:48:32,733|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:48:33,254|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[1]/div/textarea')，超时时间：10
+2023-06-16 08:48:36,458|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[3]/span/div/div[1]')，超时时间：10
+2023-06-16 08:48:36,527|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[3]/div/div/div[4]')，超时时间：10
+2023-06-16 08:48:36,595|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[4]/button')，超时时间：10
+2023-06-16 08:48:39,669|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="scroller"]/div[1]/div[1]/div/article/div[1]/div/div[1]/span')，超时时间：10
+2023-06-16 08:50:15,599|INFO|main.py|6|开始执行UI自动化测试用例
+2023-06-16 08:50:16,044|INFO|logger.py|11|====== WebDriver manager ======
+2023-06-16 08:50:16,697|INFO|logger.py|11|Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-16 08:50:17,927|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:50:18,057|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:50:18,373|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+2023-06-16 08:50:28,431|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:50:28,436|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:50:29,048|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div/div[1]/div/div/div[3]/a/div/div')，超时时间：10
+2023-06-16 08:50:32,293|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[4]/div/span')，超时时间：10
+2023-06-16 08:50:32,371|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:50:32,377|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:50:32,879|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[5]/div')，超时时间：10
+2023-06-16 08:50:33,105|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:50:33,111|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/button')，超时时间：10
+2023-06-16 08:50:33,185|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[1]')，超时时间：10
+2023-06-16 08:50:33,216|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/div[4]/button')，超时时间：10
+2023-06-16 08:50:36,347|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/input')，超时时间：10
+2023-06-16 08:50:39,451|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[3]/button[2]')，超时时间：10
+2023-06-16 08:50:42,531|INFO|base_page.py|44|查找元素：('xpath', '//div[text()=" 测测 "]/following-sibling::i')，超时时间：10
+2023-06-16 08:50:45,608|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[5]/div[1]/div/div[2]/button[2]')，超时时间：10
+2023-06-16 08:50:48,681|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[2]/i')，超时时间：10
+2023-06-16 08:50:51,751|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:50:51,756|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:50:54,858|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="app"]/div[2]/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:50:57,945|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="searchapps"]/div/div[1]/div/div/div[1]/div/div[2]/div/span/form/div/input')，超时时间：10
+2023-06-16 08:50:57,974|INFO|base_page.py|24|设置浏览器最大化
+2023-06-16 08:50:57,979|INFO|base_page.py|34|打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+2023-06-16 08:50:58,521|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[1]/div/textarea')，超时时间：10
+2023-06-16 08:51:01,754|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[3]/span/div/div[1]')，超时时间：10
+2023-06-16 08:51:01,822|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[3]/div/div/div[4]')，超时时间：10
+2023-06-16 08:51:01,886|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="homeWrap"]/div[1]/div/div[4]/div/div[4]/button')，超时时间：10
+2023-06-16 08:51:04,950|INFO|base_page.py|44|查找元素：('xpath', '//*[@id="scroller"]/div[1]/div[1]/div/article/div[1]/div/div[1]/span')，超时时间：10
+2023-06-16 08:51:07,199|INFO|main.py|8|UI自动化测试用例执行完成

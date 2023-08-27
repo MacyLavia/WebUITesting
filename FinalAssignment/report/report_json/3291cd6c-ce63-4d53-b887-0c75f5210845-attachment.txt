@@ -1,0 +1,9 @@
+INFO     root:base_page.py:24 设置浏览器最大化
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/button')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[1]')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/div[4]/button')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[2]/div/div[2]/input')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[3]/button[2]')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//div[text()=" 测测 "]/following-sibling::i')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[5]/div[1]/div/div[2]/button[2]')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[3]/div[1]/div/div[1]/div/div[2]/i')，超时时间：10

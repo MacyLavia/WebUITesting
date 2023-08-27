@@ -1,0 +1,9 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\hyldi\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+INFO     root:base_page.py:24 设置浏览器最大化
+INFO     root:base_page.py:34 打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div[1]/div/button')，超时时间：10
+INFO     root:base_page.py:24 设置浏览器最大化
+INFO     root:base_page.py:34 打开url：https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="__sidebar"]/div/div[2]/div/div[1]/div/div/div[3]/a/div/div')，超时时间：10
+INFO     root:base_page.py:44 查找元素：('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div/div/div/a[4]/div/span')，超时时间：10
